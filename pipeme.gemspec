@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Add a more functional approach to your Ruby projects"
   spec.description   = "Add pipe functionality as '>>' to Object class"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/alexrochas/pipeme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

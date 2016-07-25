@@ -1,6 +1,9 @@
 # Pipeme
 > Add a more functional approach to your Ruby projects
 
+[![Gem Version](https://badge.fury.io/rb/pipeme.svg)](https://badge.fury.io/rb/pipeme)
+![](http://ruby-gem-downloads-badge.herokuapp.com/pipeme)
+
 ## Installation
 
 Add this line to your application's Gemfile:
